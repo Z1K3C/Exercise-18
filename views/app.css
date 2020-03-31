@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=ZCOOL+QingKe+HuangYou|Germania+One|Baloo+Chettan|Open+Sans|Orbitron');
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(40, 60, 80)
+}
+
+code {
+  font-family:  source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+                'ZCOOL QingKe HuangYou','Germania One','Baloo Chettan', 'Open Sans', 'Orbitron',
+                monospace;
+}
