@@ -23,7 +23,7 @@
     "image-webpack-loader": "^4.6.0",
     "mssql": "^5.0.5",
     "node-sass": "^4.11.0",
-    "plotly.js": "^1.46.0",
+    "plotly.js": "^1.58.5",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-plotly.js": "^2.3.0",
